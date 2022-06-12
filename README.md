@@ -8,6 +8,7 @@
 <a href="https://www.blender.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> </a> <a href="https://developer.vuforia.com//" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1400488926545072129/Lqwy8wIj_400x400.jpg" width="40" height="40"/> </a><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_iYtMREynSW9xFFGeiYBcbPrd6LOjQAOjexLGfoZWHQMS_C6KCuuPgirmnUnSWDhMVw&usqp=CAU" alt="git" width="40" height="40"/>  </a>
 <h3 align="left">Other:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://trello.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1361722806694785027/UY7DlO0a.png" alt="git" width="40" height="40"/>  </a>
+  <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaozkardesler&show_icons=true&locale=en" alt="ardaozkardesler" /></p>
 
   
