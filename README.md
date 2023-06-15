@@ -9,6 +9,5 @@
 <h3 align="left">Other:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://trello.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1361722806694785027/UY7DlO0a.png" alt="git" width="40" height="40"/>  </a>
   <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaozkardesler&show_icons=true&locale=en" alt="ardaozkardesler" /></p>
 
   
